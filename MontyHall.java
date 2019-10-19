@@ -74,7 +74,7 @@ public class MontyHall
     }
     else
     {
-      return "Sorry, door " + door2 + "had the car. You lose.";
+      return "Sorry, door " + door2 + " had the car. You lose.";
     }
   }
 }
