@@ -1,5 +1,7 @@
 Monty Hall
 ==========
+Sept 2017: AP computer science 
+
 A simulation of the Monty Hall Problem
 
 Gameplay
