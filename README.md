@@ -1,6 +1,8 @@
 Monty Hall
 ==========
-Sept 2017: AP computer science 
+Sept 2017
+
+AP Computer Science HW: Function Practice
 
 A simulation of the Monty Hall Problem
 
